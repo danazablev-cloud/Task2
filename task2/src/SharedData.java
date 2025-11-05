@@ -1,3 +1,10 @@
+/**
+ * This class stores shared data between different parts of the program.
+* @param array an integer array to be shared
+* @param b a constant integer value
+*/
+
+
 public class SharedData 
 {
 	private int [] array;
